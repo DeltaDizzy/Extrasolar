@@ -1,0 +1,179 @@
+# This file provides information for other plugins
+# 
+# Syntax:
+#
+#  Celestial-Body-Name
+#  {
+#     [gas giant = true] # optional, default: false
+#     Plugin-Name
+#     {
+#        key = value
+#     }
+#  }
+#
+# Example:
+#
+#  NewKerbin
+#  {
+#     gas giant = false
+#     FinalFrontier
+#     {
+#       ribbon group  = GenericE02
+#       base prestige = 8100
+#     }
+#  }
+#
+
+Deemo
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Deemo
+     base prestige = 5053
+   }
+}
+
+Fust
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Fust
+     base prestige = 5030
+   }
+}
+
+Hauna
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Hauna
+     base prestige = 5021
+   }
+}
+
+Heba
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Heba
+     base prestige = 5010
+   }
+}
+
+Javine
+{
+   gas giant = true
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Javine
+     base prestige = 5052
+   }
+}
+
+Lomina
+{
+   gas giant = true
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Lomina
+     base prestige = 5050
+   }
+}
+
+Maol
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Maol
+     base prestige = 5051
+   }
+}
+
+Mir
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Mir
+     base prestige = 5040
+   }
+}
+
+Semth
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Semth
+     base prestige = 5022
+   }
+}
+
+Serex
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Serex
+     base prestige = 5011
+   }
+}
+
+Solyth
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Solyth
+     base prestige = 5020
+   }
+}
+
+Ucella
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Ucella
+     base prestige = 5054
+   }
+}
+
+Valentine
+{
+   gas giant = true
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Valentine
+     base prestige = 5000
+   }
+}
+
+Vedre
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = Extrasolar/Ribbons
+     ribbon group  = Vedra
+     base prestige = 5012
+   }
+}
