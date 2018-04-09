@@ -1,0 +1,5 @@
+I, AndrewDrawsPrettyPictures, am distributing a modified version of Distant Object Enhancement.
+The modifcations were made by forum user Pkmniako, credit goes to forum user MOARdV for making
+Distant Object Enhancement itself.
+
+Link to license: https://creativecommons.org/licenses/by/4.0/
