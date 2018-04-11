@@ -11,6 +11,7 @@ To install the CareerSaver Patch:
 
 To install the SVE Compatability Patch:
 
-1. Open the "SVE Compatability Patch" folder above
-2. Click on the folder titled "GameData"
-3. Copy and paste the contents into your KSP GameData folder, overwriting any files
+1. Download and install Extrasolar and Stock Visual Enhancements first
+2. Open the "SVE Compatability Patch" folder above
+3. Click on the folder titled "GameData"
+4. Copy and paste the contents into your KSP GameData folder, overwriting any files

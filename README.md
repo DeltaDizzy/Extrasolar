@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/VvRB2lN.png)
+![alt text](https://i.imgur.com/u8DTWfl.png?1)
 
 Extrasolar adds the red dwarf star "Valentine" to the Kerbol System. Orbiting Valentine are several new planets and moons to discover. Because Valentine is so far away, you will probably have to download some mods in order to make the trip easier.
 
